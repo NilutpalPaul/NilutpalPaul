@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NilutpalPaul
-- 👀 I’m interested in ...Front-end and Back-end programming
+- 👀 I’m interested in ...Full-Stack Development
 - 🌱 I’m currently learning ...searching for an internship
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...nilutpalpaul2000@gmail.com
